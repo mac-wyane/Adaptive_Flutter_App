@@ -1,0 +1,3 @@
+const YOUTUBE_API_KEY = "AIzaSyDgt4bSTd0oBF4U9cyCFHqE-V_PNh7ryVk";
+
+const FLUTTER_DEV_CHANNEL_ID = "UCwXdFgeE9KYzlDdR7TG9cMw";
